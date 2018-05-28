@@ -16,6 +16,12 @@ def main():
     all_users = set(wpt_repo.get_collaborators())
 
     for user in sorted(all_users, key=lambda user: user.login):
+        if user.permissions.admin:
+            print(user.login, 'has admin access')
+        elif user.permissions.push:
+            print(user.login, 'has write acces')
+        else:
+            assert user.permissions.pull
         if user in invited_users:
             print('Skipping {} (already invited)'.format(user.login))
             continue
