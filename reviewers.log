@@ -1,0 +1,277 @@
+AmeliaBR has write access, adding to reviewers
+AutomatedTester has write access, adding to reviewers
+BenjaminSchaaf has write access, adding to reviewers
+BenjaminSchaaf 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+FremyCompany has write access, adding to reviewers
+Hexcles has write access, adding to reviewers
+Honry has write access, adding to reviewers
+JAlanBird has write access, adding to reviewers
+JAlanBird 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+MSFTkihans has write access, adding to reviewers
+Manishearth has write access, adding to reviewers
+MattiasBuelens has write access, adding to reviewers
+Ms2ger has write access, adding to reviewers
+NellWaliczek has write access, adding to reviewers
+NellWaliczek 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+RByers has write access, adding to reviewers
+RafaelCintron has write access, adding to reviewers
+RafaelCintron 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+SimonSapin has write access, adding to reviewers
+SimonSapin 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+TakayoshiKochi has write access, adding to reviewers
+TimothyGu has write access, adding to reviewers
+TimothyGu 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+agouaillard has write access, adding to reviewers
+alexshalamov has write access, adding to reviewers
+alijuma has write access, adding to reviewers
+alphan102 has write access, adding to reviewers
+alvestrand has write access, adding to reviewers
+andreastt has write access, adding to reviewers
+andypaicu has write access, adding to reviewers
+annevk has write access, adding to reviewers
+anssiko has write access, adding to reviewers
+apowers313 has write access, adding to reviewers
+arronei has write access, adding to reviewers
+ashimura has write access, adding to reviewers
+astearns has write access, adding to reviewers
+ayg has write access, adding to reviewers
+ayg 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+beidson has write access, adding to reviewers
+beidson 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+bentian has write access, adding to reviewers
+bentian 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+bert-github has write access, adding to reviewers
+beverloo has write access, adding to reviewers
+bevis-tseng has write access, adding to reviewers
+bevis-tseng 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+birtles has write access, adding to reviewers
+boazsender has write access, adding to reviewers
+bobholt has write access, adding to reviewers
+bobholt 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+boggydigital has write access, adding to reviewers
+bsittler has write access, adding to reviewers
+bsittler 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+bzbarsky has write access, adding to reviewers
+caribouW3 has write access, adding to reviewers
+cbiesinger has write access, adding to reviewers
+cdumez has write access, adding to reviewers
+cdumez 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+chromium-wpt-export-bot has write access, adding to reviewers
+chromium-wpt-export-bot 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+cvrebert has write access, adding to reviewers
+cynthia has write access, adding to reviewers
+danyao has write access, adding to reviewers
+danyao 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+dbaron has write access, adding to reviewers
+dbates-wk has write access, adding to reviewers
+dbates-wk 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+ddorwin has write access, adding to reviewers
+deniak has write access, adding to reviewers
+dholbert has write access, adding to reviewers
+domenic has write access, adding to reviewers
+domfarolino has write access, adding to reviewers
+dominiccooney has write access, adding to reviewers
+dominiccooney 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+dontcallmedom has write access, adding to reviewers
+draggett has write access, adding to reviewers
+draggett 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+drott has write access, adding to reviewers
+eaenet has write access, adding to reviewers
+edenchuang has write access, adding to reviewers
+edenchuang 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+emanchado has write access, adding to reviewers
+emilio has write access, adding to reviewers
+engelke has write access, adding to reviewers
+engelke 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+ericprud has write access, adding to reviewers
+ericprud 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+ewilligers has write access, adding to reviewers
+fantasai has write access, adding to reviewers
+farre has write access, adding to reviewers
+flackr has write access, adding to reviewers
+fleizach has write access, adding to reviewers
+fleizach 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+foolip has write access, adding to reviewers
+fred-wang has write access, adding to reviewers
+frewsxcv has write access, adding to reviewers
+frivoal has write access, adding to reviewers
+fsoder has write access, adding to reviewers
+gosko has write access, adding to reviewers
+gosko 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+graouts has write access, adding to reviewers
+gregwhitworth has write access, adding to reviewers
+gsnedders has write access, adding to reviewers
+guidou has write access, adding to reviewers
+halindrome has write access, adding to reviewers
+halindrome 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+hallvors has write access, adding to reviewers
+hallvors 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+hayatoito has write access, adding to reviewers
+henbos has write access, adding to reviewers
+heycam has write access, adding to reviewers
+hillbrad has write access, adding to reviewers
+hillbrad 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+huchunming has write access, adding to reviewers
+huchunming 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+ianbjacobs has write access, adding to reviewers
+igrigorik has write access, adding to reviewers
+iherman has write access, adding to reviewers
+iherman 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+inexorabletash has write access, adding to reviewers
+jakearchibald has write access, adding to reviewers
+javifernandez has write access, adding to reviewers
+jcjones has write access, adding to reviewers
+jdm has write access, adding to reviewers
+jdsmith3000 has write access, adding to reviewers
+jdsmith3000 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+jean-gui has write access, adding to reviewers
+jean-gui 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+jeffcarp has write access, adding to reviewers
+jensl has write access, adding to reviewers
+jgraham has write access, adding to reviewers
+jimsch has write access, adding to reviewers
+jkbzh has write access, adding to reviewers
+jkbzh 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+joanmarie has write access, adding to reviewers
+joeyparrish has write access, adding to reviewers
+jugglinmike has write access, adding to reviewers
+junov has write access, adding to reviewers
+junov 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+kereliuk has write access, adding to reviewers
+koalie has write access, adding to reviewers
+koalie 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+kojiishi has write access, adding to reviewers
+kritisingh1 has write access, adding to reviewers
+lcarcone has write access, adding to reviewers
+lcarcone 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+leonhsl has write access, adding to reviewers
+liamquin has write access, adding to reviewers
+lianqi has write access, adding to reviewers
+lianqi 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+lilles has write access, adding to reviewers
+litherum has write access, adding to reviewers
+litherum 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+littledan has write access, adding to reviewers
+louaybassbouss has write access, adding to reviewers
+louaybassbouss 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+lukebjerring has write access, adding to reviewers
+luser has write access, adding to reviewers
+luser 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+lyzadanger has write access, adding to reviewers
+marcoscaceres has write access, adding to reviewers
+mathiasbynens has write access, adding to reviewers
+mattl has write access, adding to reviewers
+mattl 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+mattto has write access, adding to reviewers
+mdittmer has write access, adding to reviewers
+michael-n-cooper has write access, adding to reviewers
+miketaylr has write access, adding to reviewers
+mikewest has write access, adding to reviewers
+mjzffr has write access, adding to reviewers
+mkruisselbrink has write access, adding to reviewers
+mnoorenberghe has write access, adding to reviewers
+mounirlamouri has write access, adding to reviewers
+moz-wptsync-bot has write access, adding to reviewers
+mrego has write access, adding to reviewers
+mstensho has write access, adding to reviewers
+mwatson2 has write access, adding to reviewers
+mwatson2 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+nikosandronikos has write access, adding to reviewers
+nikosandronikos 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+nitedog has write access, adding to reviewers
+nitedog 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+nox has write access, adding to reviewers
+nyaxt has write access, adding to reviewers
+nyaxt 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+odinho has write access, adding to reviewers
+odinho 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+padenot has write access, adding to reviewers
+paezagon has write access, adding to reviewers
+peterjoel has write access, adding to reviewers
+peterjoel 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+plehegar has write access, adding to reviewers
+plinss has write access, adding to reviewers
+pwnall has write access, adding to reviewers
+r12a has write access, adding to reviewers
+rachelandrew has write access, adding to reviewers
+rakuco has write access, adding to reviewers
+reillyeon has write access, adding to reviewers
+rhiaro has write access, adding to reviewers
+rhiaro 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+ricea has write access, adding to reviewers
+rmcilroy has write access, adding to reviewers
+rmcilroy 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+rmhrisk has write access, adding to reviewers
+rmhrisk 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+rniwa has write access, adding to reviewers
+rsolomakhin has write access, adding to reviewers
+rsolomakhin 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+ruoxiran has write access, adding to reviewers
+ruoxiran 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+rwaldron has write access, adding to reviewers
+samuelweiler has write access, adding to reviewers
+samweiler has write access, adding to reviewers
+samweiler 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+sandhawke has write access, adding to reviewers
+sandhawke 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+servo-wpt-sync has write access, adding to reviewers
+servo-wpt-sync 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+shanmuga-m has write access, adding to reviewers
+shs96c has write access, adding to reviewers
+shs96c 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+sideshowbarker has write access, adding to reviewers
+siusin has write access, adding to reviewers
+slhenry has write access, adding to reviewers
+slhenry 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+slightlyoff has write access, adding to reviewers
+slightlyoff 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+smaug---- has write access, adding to reviewers
+snuggs has write access, adding to reviewers
+soareschen has write access, adding to reviewers
+stephenmcgruer has write access, adding to reviewers
+svgeesus has write access, adding to reviewers
+svillar has write access, adding to reviewers
+svillar 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+swickr has write access, adding to reviewers
+tabatkins has write access, adding to reviewers
+tguild has write access, adding to reviewers
+tguild 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+thejohnjansen has write access, adding to reviewers
+tidoust has write access, adding to reviewers
+tkent-google has write access, adding to reviewers
+tmichel07 has write access, adding to reviewers
+tmichel07 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+tobie has write access, adding to reviewers
+toddreifsteck has write access, adding to reviewers
+tripu has write access, adding to reviewers
+tyoshino has write access, adding to reviewers
+tyoshino 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+upsuper has write access, adding to reviewers
+vivienlacourba has write access, adding to reviewers
+w3c-bender has write access, adding to reviewers
+w3c-bender 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+w3c-bkpgh has write access, adding to reviewers
+w3c-bkpgh 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+w3c-bots has write access, adding to reviewers
+w3c-bots 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+wanderview has write access, adding to reviewers
+whimboo has write access, adding to reviewers
+wolenetz has write access, adding to reviewers
+wpt-pr-bot has write access, adding to reviewers
+wpt-reviewable-bot has write access, adding to reviewers
+wpt-reviewable-bot 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+wseltzer has write access, adding to reviewers
+wseltzer 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+xfq has write access, adding to reviewers
+xueyuanjia has write access, adding to reviewers
+xueyuanjia 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+yatil has write access, adding to reviewers
+yatil 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+yellowdoge has write access, adding to reviewers
+ylafon has write access, adding to reviewers
+yoavweiss has write access, adding to reviewers
+youennf has write access, adding to reviewers
+yutakahirano has write access, adding to reviewers
+yutakahirano 422 {'message': "User isn't a member of this organization. Please invite them first.", 'errors': [{'code': 'unaffiliated', 'resource': 'TeamMember', 'field': 'user'}], 'documentation_url': 'https://developer.github.com/v3/teams/members/#add-team-member'}
+zcorpan has write access, adding to reviewers
+zqzhang has write access, adding to reviewers
